@@ -9,7 +9,7 @@ import javax.persistence.Table;
 @Entity
 @Table
 public class Comercial {
-
+// anotaciones de mapeo
 	@Id
 	@GeneratedValue
 	private Long id;
